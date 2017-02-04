@@ -19,4 +19,7 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.main{
+    padding-left:200px;
+    padding-right:200px;
+}
